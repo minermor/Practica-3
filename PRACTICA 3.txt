@@ -1,0 +1,8 @@
+using System;
+using System.Collections;
+ 
+ 
+namespace HASH_TABLE
+{
+	class Program
+	{
